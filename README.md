@@ -8,3 +8,7 @@ This web app made in Streamlit allow to track the work of all employees in any k
 
 Please note this is a beta so there are several improvements you must do like hashing password or create usefull dashboard for admin user
 
+![image](https://github.com/user-attachments/assets/6dca3a21-3866-49f0-8aa0-98d1884fdc0b)
+
+![image](https://github.com/user-attachments/assets/c5e7f74a-3455-431c-b563-560b8b7fc75f)
+
