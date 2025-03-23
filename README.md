@@ -12,3 +12,4 @@ Please note this is a beta so there are several improvements you must do like ha
 
 ![image](https://github.com/user-attachments/assets/c5e7f74a-3455-431c-b563-560b8b7fc75f)
 
+![image](https://github.com/user-attachments/assets/28f6ec23-a94e-45bf-8666-54191461bbff)
