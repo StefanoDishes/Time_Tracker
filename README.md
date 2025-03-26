@@ -1,4 +1,4 @@
-# Time_Tracker
+# Time_Tracking
  
 Step to follow:
 1. Install all requirements
